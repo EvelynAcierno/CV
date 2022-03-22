@@ -1,0 +1,25 @@
+body {
+    background-color: #A6D6D6;
+}
+
+hr {
+border-style: dotted none none;
+border-color: #E0EBE8;
+border-width: 5px;
+width: 4%;
+
+}
+
+h1 {
+color: #907FA4;
+font-family: Luminari, fantasy;
+}
+
+h3 {
+    color: #907FA4;
+    font-family: Trattatello, fantasy;
+}
+img {
+    width: 80%;
+    height: 80%;
+}
